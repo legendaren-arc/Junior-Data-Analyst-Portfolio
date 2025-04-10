@@ -1,9 +1,9 @@
-##  Daren Dale Aldea  | From Raw Data to Insight
+##  Daren Dale Aldea  | From Raw Data to Insights
 **Junior Data Analyst**  
 
 ---
 
-### Profile Summary
+### About
 
 I am a recent graduate in Information Technology with a strong interest in data research, analytics, visualization, and data management. I am driven by the goal of turning raw data into clear, actionable insights that support informed, strategic decision-making.
 
@@ -20,9 +20,9 @@ This is a repository to showcase skills, share projects and track my progress in
 | Category | Skills |
 |---|---|
 | **Programming & Data** | SQL, Python, Excel, Google Sheets |
-| **Visualization** | Tableau, Recharts, Lucidcharts |
-| **Database** | SQL Queries, Data Cleaning, Structuring |
-| **Tools** | Microsoft Office, AppSheet, Canva, Notion, MongoDB, React.js |
+| **Visualization** | Tableau, Recharts, Lucidcharts, PowerBi |
+| **Database** | SQL Queries, Data Cleaning, Structuring, Modeling |
+| **Tools** | MySQL, AppSheet, Canva, Notion, MongoDB, React.js, Microsoft Access, Microsoft Office Suite, Photoshop |
 | **Soft Skills** | Analytical Thinking, Problem Solving, Communication, Team Collaboration, Leadership |
 
 ---
@@ -78,9 +78,11 @@ This is a repository to showcase skills, share projects and track my progress in
 | [Data Fundamentals](https://www.credly.com/badges/5c0ff55a-43bf-4ae1-9ad2-d14a7a231a3b/linked_in_profile) | IBM SkillsBuild | Jan 2025 |
 
 ---
- Carigara, Leyte, Philippines  
- [aldeadarendale@gmail.com](mailto:aldeadarendale@gmail.com) | 📱 +63 950 598 5101  
- [LinkedIn](https://www.linkedin.com/in/daren-dale-aldea) | 🌐 [GitHub](https://github.com/legendaren-arc)
+
+### Contacts
+ [aldeadarendale@gmail.com](mailto:aldeadarendale@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/daren-dale-aldea) 
+ [GitHub](https://github.com/legendaren-arc)
 
  ---
  
