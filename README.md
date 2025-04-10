@@ -24,6 +24,22 @@ Recent graduate in Information Technology attentive in data analytics, data visu
 
 ---
 
+###  Projects
+
+#### [Spotify Streaming History Analysis (SQL)](https://github.com/legendaren-arc/sql-projects/tree/main/spotify-stream-history-analysis)
+- Cleaned and structured 16,000+ rows of personal listening history.
+- Analyzed personal listening patterns using SQL. 
+
+#### [Washington Crime Dashboard (Tableau)](https://public.tableau.com/app/profile/daren.dale.aldea/viz/WashingtonCrimes/Dashboard1)
+- Visual dashboard summarizing crime trends in Washington D.C.
+- Filters by crime type, date, and district to support crime pattern recognition.
+
+#### [Daikibo Telemetry Performance Dashboard (Tableau)](https://public.tableau.com/app/profile/daren.dale.aldea/viz/DaikiboTelemetryPerformance/Daikibo-telemetry-dashboard)
+- Analyzed over 160,000 logs from four Daikibo factories using telemetry data.
+- Identified the factory with the highest rate of machine failures and the machines most prone to breakdowns.Key insights on speed, battery usage, and temperature over time.
+
+---
+
 ### Education
 
 **Bachelor of Science in Information Technology**  
@@ -45,22 +61,6 @@ Recent graduate in Information Technology attentive in data analytics, data visu
  *Feb – May 2023*  
 - Digitized and cleaned research data using Excel and Google Sheets.  
 - Organized faculty research points to support recognition and awards.
-
----
-
-###  Projects
-
-#### [Spotify Streaming History Analysis (SQL)](https://github.com/legendaren-arc/sql-projects/tree/main/spotify-stream-history-analysis)
-- Cleaned and structured 16,000+ rows of personal listening history.
-- Analyzed personal listening patterns using SQL. 
-
-#### [Washington Crime Dashboard (Tableau)](https://public.tableau.com/app/profile/daren.dale.aldea/viz/WashingtonCrimes/Dashboard1)
-- Visual dashboard summarizing crime trends in Washington D.C.
-- Filters by crime type, date, and district to support crime pattern recognition.
-
-#### [Daikibo Telemetry Performance Dashboard (Tableau)](https://public.tableau.com/app/profile/daren.dale.aldea/viz/DaikiboTelemetryPerformance/Daikibo-telemetry-dashboard)
-- Analyzed over 160,000 logs from four Daikibo factories using telemetry data.
-- Identified the factory with the highest rate of machine failures and the machines most prone to breakdowns.Key insights on speed, battery usage, and temperature over time.
 
 ---
 
