@@ -39,7 +39,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 #### [Daikibo Telemetry Performance Dashboard (Tableau)](https://public.tableau.com/app/profile/daren.dale.aldea/viz/DaikiboTelemetryPerformance/Daikibo-telemetry-dashboard)
 - Analyzed over 160,000 logs from four Daikibo factories using telemetry data.
-- Identified the factory with the highest rate of machine failures and the machines most prone to breakdowns.Key insights on speed, battery usage, and temperature over time.
+- Identified the factory with the highest rate of machine failures and the machines most prone to breakdowns.
 
 ---
 
