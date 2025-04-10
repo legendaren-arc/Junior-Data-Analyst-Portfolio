@@ -1,14 +1,17 @@
-##  Daren Dale Aldea  
+##  Daren Dale Aldea  | From Raw Data to Insight
 **Junior Data Analyst**  
- Carigara, Leyte, Philippines  
- [aldeadarendale@gmail.com](mailto:aldeadarendale@gmail.com) | 📱 +63 950 598 5101  
- [LinkedIn](https://www.linkedin.com/in/daren-dale-aldea) | 🌐 [GitHub](https://github.com/legendaren-arc)
 
 ---
 
 ### Profile Summary
 
-Recent graduate in Information Technology attentive in data analytics, data visualization, and data management. I am passionate about uncovering actionable insights through data and leveraging analytical tools to drive smarter decisions. Proficient in tools such as Excel, SQL, and Tableau, and continuously advancing my skills in Python, Power BI, and other modern data technologies. Currently in the process of active upskilling through hands-on projects and professional certifications to stay ahead in the data field.
+I am a recent graduate in Information Technology with a strong interest in data research, analytics, visualization, and data management. I am driven by the goal of turning raw data into clear, actionable insights that support informed, strategic decision-making.
+
+With over four years of experience working with Excel and spreadsheets, I have developed a solid foundation in data organization and analysis. I am also expanding my skill set in SQL, Tableau, Python, Power BI, and other modern data tools. Currently, I’m actively building hands-on personal projects and pursuing certifications to stay ahead in the ever-evolving data landscape.
+
+Combining technical proficiency with a critical and analytical mindset, I strive to deliver impactful, data-driven solutions that create value and inspire smarter decisions. 
+
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ---
 
@@ -75,5 +78,10 @@ Recent graduate in Information Technology attentive in data analytics, data visu
 | [Data Fundamentals](https://www.credly.com/badges/5c0ff55a-43bf-4ae1-9ad2-d14a7a231a3b/linked_in_profile) | IBM SkillsBuild | Jan 2025 |
 
 ---
+ Carigara, Leyte, Philippines  
+ [aldeadarendale@gmail.com](mailto:aldeadarendale@gmail.com) | 📱 +63 950 598 5101  
+ [LinkedIn](https://www.linkedin.com/in/daren-dale-aldea) | 🌐 [GitHub](https://github.com/legendaren-arc)
 
+ ---
+ 
 > “The goal is to turn data into information, and information into insight.” — Carly Fiorina
