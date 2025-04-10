@@ -81,9 +81,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### Contacts
 - Email: [aldeadarendale@gmail.com](mailto:aldeadarendale@gmail.com)
-- LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/daren-dale-aldea) 
-- Github: [GitHub](https://github.com/legendaren-arc)
-
+- LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/daren-dale-aldea)
+  
  ---
  
 > “The goal is to turn data into information, and information into insight.” — Carly Fiorina
