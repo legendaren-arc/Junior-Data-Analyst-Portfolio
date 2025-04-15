@@ -5,7 +5,7 @@
 
 ### About
 
-I am a recent graduate in Information Technology with a strong interest in data research, analytics, visualization, and data management. I am driven by the goal of turning raw data into clear, actionable insights that support informed, strategic decision-making.
+I am a graduate in Information Technology with a strong interest in data research, analytics, visualization, and data management. I am driven by the goal of turning raw data into clear, actionable insights that support informed, strategic decision-making.
 
 With over four years of experience working with Excel and spreadsheets, I have developed a solid foundation in data organization and analysis. I am also expanding my skill set in SQL, Tableau, Python, Power BI, and other modern data tools. Currently, I’m actively building hands-on personal projects and pursuing certifications to stay ahead in the ever-evolving data landscape.
 
@@ -19,11 +19,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 | Category | Skills |
 |---|---|
-| **Programming & Data** | SQL, Python, Excel, Google Sheets |
-| **Visualization** | Tableau, Recharts, Lucidcharts, PowerBi |
+| **Programming & Data** | SQL, Excel, Google Sheets |
+| **Visualization** | Tableau, PowerBi, Recharts |
 | **Database** | SQL Queries, Data Cleaning, Structuring, Modeling |
 | **Tools** | MySQL, AppSheet, Canva, Notion, MongoDB, React.js, Microsoft Access, Microsoft Office Suite, Photoshop |
-| **Soft Skills** | Analytical Thinking, Problem Solving, Communication, Team Collaboration, Leadership |
+| **Soft Skills** | Data Storytelling, Analytical Thinking, Problem Solving, Communication, Team Collaboration, Leadership |
 
 ---
 
@@ -69,7 +69,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### Certifications & Badges
 
-| Title | Issuer | Date |
+| Title | Issuing Organization | Date |
 |---|---|---|
 | [Deloitte Australia - Data Analytics Job Simulation](https://drive.google.com/file/d/1UKchPF0H14QzliXVqo4qFOjue5m3tz2Q/view) | Forage | Feb 2025 |
 | [Python for Data Science](https://courses.yl-ptech.skillsnetwork.site/certificates/4d972666633e423aa2b6f5f15ca89ba9) | IBM | Feb 2025 |
